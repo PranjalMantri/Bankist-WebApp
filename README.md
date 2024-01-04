@@ -1,7 +1,7 @@
-# Bankist App Readme
+# Bankist App
 
 ## Overview
-The Bankist app is a simple banking application that allows users to log in, view their account balance, check recent transactions, transfer money to other accounts, request a loan, and close their account. The application is built using HTML, CSS, and JavaScript
+The [Bankist](https://659598845827350083ff2e01--imaginative-alpaca-3cbab3.netlify.app/) app is a simple banking application that allows users to log in, view their account balance, check recent transactions, transfer money to other accounts, request a loan, and close their account. The application is built using HTML, CSS, and JavaScript
 
 ## Features That Matter
 1. **Login:** Log in with your username and PIN. No room for mistaken credentials.

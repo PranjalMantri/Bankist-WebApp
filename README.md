@@ -20,6 +20,9 @@ The [Bankist](https://659598845827350083ff2e01--imaginative-alpaca-3cbab3.netlif
 
 ## Behind the Scenes
 - The app relies on an array of account objects, storing essential info like owner name, movements, interest rate, and PIN.
+- To view account dashboard, go to Open Account >> Existing Account >> Enter ID - pm and PIN - 1111
+- To Transfer to another account, try using account ID - em and PIN - 2222
+
 
 This app was born out of a JavaScript course on Udemy. It's not fancy, but it gets the job done and is mainly for Learning purposes. Dive in, explore, and test it out.
 
